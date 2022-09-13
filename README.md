@@ -1,2 +1,2 @@
 # Economy simulations
-Capitalist economy dynamic, Ideal gases behavior, Ising simulation
+Simulations of capitalism-based economies' dynamics in conservative systems from various approaches
